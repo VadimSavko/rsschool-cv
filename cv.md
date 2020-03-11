@@ -14,9 +14,6 @@ Embedded Software Developer
 Programming languages
 Delphi, Java 
 
-version control
-SVN
-
 Education
 2002 - 2007: department of Computer-Aided Design facilities, Belarusian State University of Informatics and Radioelectronics, Minsk, Belarus 
 Bachelor’s degree in Technology science
