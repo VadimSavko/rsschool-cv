@@ -1,6 +1,6 @@
 Vadim Savko
 Phone: + 375-29-551-47-70
-Email:  vadsavgen0@gmail.com
+Email:  vadsavgen@gmail.com
 Linkedin: www.linkedin.com/in/vadim-savko-002139b9
 
 Work experience
