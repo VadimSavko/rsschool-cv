@@ -1,1 +1,1 @@
-https://VadimSavko/rsschool-cv/cv
+https://github.com/VadimSavko/rsschool-cv/blob/gh-pages/cv.md
